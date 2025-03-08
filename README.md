@@ -54,11 +54,10 @@ The SpaceX Launch App allows users to view upcoming and past SpaceX launches, al
 
 3. **Handling Large Launch Site Names in UI:**
    - Some launch site names were too long, affecting the layout.
-   - **Solution:** Used ellipsis (`...`) after a character limit and displayed full details in a modal.
 
-4. **Expo Firebase Deprecation:**
-   - Expo's built-in Firebase modules are deprecated.
-   - **Solution:** Transitioned to `react-native-firebase` where needed.
+4. **Launch Data Limited to 2022:**
+   - The SpaceX API does not provide real-time future launches beyond 2022.
+   - **Solution:** Could not implement a countdown timer for upcoming launches due to outdated data.
 
 ## Future Improvements
 - Implement offline caching for previously fetched launch data.
