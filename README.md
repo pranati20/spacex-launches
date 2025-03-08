@@ -6,7 +6,7 @@ The SpaceX Launch App allows users to view upcoming and past SpaceX launches, al
 
 ## App Demo
 
-![App Demo](assets/app_demo.gif)
+![App Demo](assets/appdemo.gif)
 
 
 ## Setup Instructions
