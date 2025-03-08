@@ -17,7 +17,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/spacex-launch-app.git
+   git clone https://github.com/pranati20/spacex-launch-app.git
    ```
 
 2. Navigate into the project directory:
