@@ -71,4 +71,4 @@ This app provides an interactive and informative way to explore SpaceX launches 
 
 ## App Demo
 
-![App Demo](assets/appdemo.gif)
+![App Demo](assets/appdemo1.webm)
