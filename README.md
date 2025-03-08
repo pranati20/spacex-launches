@@ -3,12 +3,6 @@
 ## Overview
 The SpaceX Launch App allows users to view upcoming and past SpaceX launches, along with detailed information about rockets and launchpads.
 
-
-## App Demo
-
-![App Demo](assets/appdemo.gif)
-
-
 ## Setup Instructions
 1. **Clone the repository:**
    ```sh
@@ -75,3 +69,6 @@ The SpaceX Launch App allows users to view upcoming and past SpaceX launches, al
 ## Conclusion
 This app provides an interactive and informative way to explore SpaceX launches using real-time data. Future iterations will include more features to enhance user engagement and accessibility.
 
+## App Demo
+
+![App Demo](assets/appdemo.gif)
